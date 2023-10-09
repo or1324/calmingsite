@@ -1,4 +1,4 @@
-# calmingcorner
+# calm corner
 אתר הרגעה לאנשים שתקועים במקלטים ולחרדתיים
 
 #Important notes
