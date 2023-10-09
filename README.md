@@ -2,7 +2,7 @@
 0אתר הרגעה לאנשים שתקועים במקלטים ולחרדתיים
 
 #Important notes
-1. Please do not push into master, wait for CR/approval by Or, or anyone else that was permitted to review code.
+1. Please do not push into master, wait for CR/approval by Barak, or anyone else that was permitted to review code.
 2. Don't start a task without approval of Or.
 3. Be aware of your technical abililities and don't commit to a task you aren't sure you can complete.
 4. Don't be afraid to ask for help if you aren't sure/don't know how to do something.
